@@ -1,2 +1,2 @@
 # XDchat
-# The simple IRC-clien
+# The simple IRC-client
